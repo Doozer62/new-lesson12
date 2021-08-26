@@ -52,6 +52,7 @@ body {
 	font-size: 1rem;
 }
 
+a,
 ul,
 ol,
 li,
@@ -63,4 +64,6 @@ h4,
 h5,
 h6 {
 	margin: 0;
+	list-style-type: none;
+	text-decoration: none;
 }
